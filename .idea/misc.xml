@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marcin Zalewski/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/drawable/car.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/drawable/car_blue_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/drawable/ic_car_white.xml" value="0.167" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/drawable/splashscreen_background.xml" value="0.2385" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/layout/activity_main.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Java/DrivingCost/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

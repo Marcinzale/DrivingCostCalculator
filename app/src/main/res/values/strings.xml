@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Driving Cost Calculator</string>
+
+    <string name="fuel_price">Fuel price (PLN)</string>
+    <string name="fuel_consumption">Fuel consumption (L/100Km)</string>
+    <string name="route_length">Route length (Km)</string>
+    <string name="total_cost">Total cost is: </string>
+    <string name="tv_result">0 PLN</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="btn_clear">CLEAR</string>
+</resources>
